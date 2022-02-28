@@ -1,5 +1,6 @@
 # Pathfinding-Visualizer
 It is a python Application for visualize the path between two points in 2D plane using A*, Dijkstra and BFS algorithms, with very good and user-friendly GUI.
+
 See the demo.
 
 ![1](https://user-images.githubusercontent.com/93608591/155976785-530f39f3-1fbb-41fe-9434-478a8667aef8.PNG)
